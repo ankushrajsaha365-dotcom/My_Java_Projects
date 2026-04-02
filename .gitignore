@@ -1,12 +1,26 @@
-# Compiled files
+# Compiled Java files
+
 *.class
 
-# VS Code
+# Logs
+
+*.log
+
+# VS Code settings
+
 .vscode/
 
-# Libraries
-lib/
+# IntelliJ files
 
-# OS junk
+.idea/
+*.iml
+
+# OS files
+
 .DS_Store
 Thumbs.db
+
+# Build folders (if added later)
+
+bin/
+out/
